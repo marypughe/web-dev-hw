@@ -1,0 +1,7 @@
+6. The internet connects participants, and the web connects information.
+7. When you send information from your computer it has its on ip address and it gets sent through your dsl or router to you internet 
+   service provider and they send it to another internet service provider of the person you are trying to reach,  then this process 
+   happens in reverse so you receive the information backing while keeping the same ip address.
+8. a directory is where files are stored
+9. A VSP is beneficial because you can track your changes or revert them if you need to, and you can share your work with your
+   team and work on it together.
