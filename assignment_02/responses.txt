@@ -1,0 +1,4 @@
+6. The internet sends bits by electricity, light, and radio waves.  Electricity is cheaper but the signal gets lost, light is really fast but is expensive, and radio is wireless  but has a short range.
+7. Your computer uses the Domain Name System to look up the Internet Protocol Address.
+8. Cookies are data that helps websites remember who you are.
+9. The three basic parts of a URL are Protocol, Domain, and Paths.
