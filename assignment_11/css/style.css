@@ -1,0 +1,21 @@
+.box {
+  display: inline-block;}
+.box {
+  border: solid;
+  width: 250%;
+  height: 250%;
+  margin: auto;
+  padding: 2px;
+
+}
+
+#blue {
+  background-color: blue
+}
+#green {
+  background-color: green
+}
+#yellow{
+  z-index: 3;
+  background-color: yellow
+}
