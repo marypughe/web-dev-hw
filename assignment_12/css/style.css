@@ -1,0 +1,18 @@
+body {
+  background-color:lightblue;
+
+}
+* {
+  text-decoration-color: white;
+}
+.page {
+  border-color: blue;
+  border-width: thick;
+
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
