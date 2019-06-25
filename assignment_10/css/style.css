@@ -24,7 +24,7 @@ h2 {
   word-spacing: 1em;
 
 }
-p:first-letter {
+p::first-letter {
   font-family: 'Dancing Script', cursive;
   font-size: 150%;
 }
